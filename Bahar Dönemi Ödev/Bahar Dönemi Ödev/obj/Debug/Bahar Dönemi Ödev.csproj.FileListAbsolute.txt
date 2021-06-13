@@ -1,0 +1,22 @@
+C:\Users\user\OneDrive\Masaüstü\ödevvv\Bahar Dönemi Ödev\Bahar Dönemi Ödev\bin\Debug\Bahar Dönemi Ödev.exe.config
+C:\Users\user\OneDrive\Masaüstü\ödevvv\Bahar Dönemi Ödev\Bahar Dönemi Ödev\bin\Debug\Bahar Dönemi Ödev.exe
+C:\Users\user\OneDrive\Masaüstü\ödevvv\Bahar Dönemi Ödev\Bahar Dönemi Ödev\bin\Debug\Bahar Dönemi Ödev.pdb
+C:\Users\user\OneDrive\Masaüstü\ödevvv\Bahar Dönemi Ödev\Bahar Dönemi Ödev\obj\Debug\Bahar Dönemi Ödev.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\ödevvv\Bahar Dönemi Ödev\Bahar Dönemi Ödev\obj\Debug\Bahar_Dönemi_Ödev.Form1.resources
+C:\Users\user\OneDrive\Masaüstü\ödevvv\Bahar Dönemi Ödev\Bahar Dönemi Ödev\obj\Debug\Bahar_Dönemi_Ödev.KayitFormu.resources
+C:\Users\user\OneDrive\Masaüstü\ödevvv\Bahar Dönemi Ödev\Bahar Dönemi Ödev\obj\Debug\Bahar_Dönemi_Ödev.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\ödevvv\Bahar Dönemi Ödev\Bahar Dönemi Ödev\obj\Debug\Bahar Dönemi Ödev.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\ödevvv\Bahar Dönemi Ödev\Bahar Dönemi Ödev\obj\Debug\Bahar Dönemi Ödev.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\ödevvv\Bahar Dönemi Ödev\Bahar Dönemi Ödev\obj\Debug\Bahar Dönemi Ödev.exe
+C:\Users\user\OneDrive\Masaüstü\ödevvv\Bahar Dönemi Ödev\Bahar Dönemi Ödev\obj\Debug\Bahar Dönemi Ödev.pdb
+C:\Users\90505\Desktop\ödevvv\Bahar Dönemi Ödev\Bahar Dönemi Ödev\obj\Debug\Bahar Dönemi Ödev.csproj.AssemblyReference.cache
+C:\Users\90505\Desktop\ödevvv\Bahar Dönemi Ödev\Bahar Dönemi Ödev\obj\Debug\Bahar_Dönemi_Ödev.Form1.resources
+C:\Users\90505\Desktop\ödevvv\Bahar Dönemi Ödev\Bahar Dönemi Ödev\obj\Debug\Bahar_Dönemi_Ödev.KayitFormu.resources
+C:\Users\90505\Desktop\ödevvv\Bahar Dönemi Ödev\Bahar Dönemi Ödev\obj\Debug\Bahar_Dönemi_Ödev.Properties.Resources.resources
+C:\Users\90505\Desktop\ödevvv\Bahar Dönemi Ödev\Bahar Dönemi Ödev\obj\Debug\Bahar Dönemi Ödev.csproj.GenerateResource.cache
+C:\Users\90505\Desktop\ödevvv\Bahar Dönemi Ödev\Bahar Dönemi Ödev\obj\Debug\Bahar Dönemi Ödev.csproj.CoreCompileInputs.cache
+C:\Users\90505\Desktop\ödevvv\Bahar Dönemi Ödev\Bahar Dönemi Ödev\obj\Debug\Bahar Dönemi Ödev.exe
+C:\Users\90505\Desktop\ödevvv\Bahar Dönemi Ödev\Bahar Dönemi Ödev\obj\Debug\Bahar Dönemi Ödev.pdb
+C:\Users\90505\Desktop\ödevvv\Bahar Dönemi Ödev\Bahar Dönemi Ödev\bin\Debug\Bahar Dönemi Ödev.exe.config
+C:\Users\90505\Desktop\ödevvv\Bahar Dönemi Ödev\Bahar Dönemi Ödev\bin\Debug\Bahar Dönemi Ödev.exe
+C:\Users\90505\Desktop\ödevvv\Bahar Dönemi Ödev\Bahar Dönemi Ödev\bin\Debug\Bahar Dönemi Ödev.pdb
